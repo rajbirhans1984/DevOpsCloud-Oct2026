@@ -102,7 +102,7 @@ grants read, write, and execute permissions to the owner of the file.
 
 changes the group ownership of "file.txt" to the specified group.
 
-# umask: Set default file permissions.
+## umask: Set default file permissions.
 
 ### umask 022
 
